@@ -1,7 +1,6 @@
 <h2> Olá! Me chamo Jessica! Mas a maioria das pessoas me chamam de Jess </h2>
 
-👩‍🎓 Aluna RecodePro FullStack 2021!
-🤖 Atual Cadete de Engenharia de Software na 42 | Rio 
+👩‍🎓 Aluna RecodePro FullStack 2021 && Atual Cadete de Engenharia de Software na 42 | Rio 
 
 
 <div align="center">
