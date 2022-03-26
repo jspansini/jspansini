@@ -1,4 +1,4 @@
-<h2> Olá! Me chamo Jessica! Mas a maioria das pessoas me chamam de Jess </h2>
+<h1 align="left"> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, me chamam de Jess!</h1>
 
 👩‍🎓 Aluna RecodePro FullStack 2021 && Atual Cadete de Engenharia de Software na 42 | Rio 
 
