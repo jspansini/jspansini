@@ -1,6 +1,8 @@
-<h1 align="left"> Olá, tudo bem? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Meu nome é Jessica, mas pode me chamar de Jess</h1>
+<h1 align="left"> Olá, tudo bem? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h2> Meu nome é Jessica, mas todos me chamam de Jess!</h2>
 
-Sou estudante apaixonada por tecnologia. Tenho como foco o front-end, mas mantenho os olhos sempre abertos!
+Sou estudante de engenharia de software, apaixonada por tecnologia!
+Tenho paixão pelo front-end mas gosto dos desafios do back-end também!
 
 💬 Sobre mim: designer, fotógrafa e cinéfila de carteirinha!<br>
 👩‍🎓 Fullstack Developer - RecodePro 2021.<br>
