@@ -1,7 +1,14 @@
-<h1 align="left"> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, me chamam de Jess!</h1>
+<h1 align="left"> Olá, tudo bem? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Meu nome é Jessica, mas pode me chamar de Jess</h1>
 
-👩‍🎓 Aluna RecodePro FullStack 2021 && Atual Cadete de Engenharia de Software na 42 | Rio 
+Sou estudante apaixonada por tecnologia. Tenho como foco o front-end, mas mantenho os olhos sempre abertos!
 
+💬 Sobre mim: designer, fotógrafa e cinéfila de carteirinha!<br>
+👩‍🎓 Fullstack Developer - RecodePro 2021.<br>
+🎒 Estudante de engenharia de software pela 42|Rio.<br>
+🎯 Objetivo: Atualmente procurando uma oportunidade para continuar evoluindo.<br>
+📰 Aprendendo por fora: Javascript, ReactJS, UX e UI.<br>
+💜 Tenho conhecimento em HTML5, CSS, JavaScript, Figma, Bootstrap, C#, .Net, Java, React, SQLserver, MongoDB.<br>
+💜 Trabalho há bastante tempo com: Photoshop, Illustrator, CorelDraw, Indesign, Premiere e FacebookADS.<br>
 
 <div align="center">
   <a href="https://github.com/jspansini">
@@ -43,8 +50,6 @@
 
   ## 🛠 &nbsp;Techs favoritas do momento:
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 
