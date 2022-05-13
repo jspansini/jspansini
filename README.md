@@ -1,12 +1,13 @@
 <h1 align="left"> Olá, tudo bem? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 <h2> Meu nome é Jessica, mas todos me chamam de Jess!</h2>
 
-Sou estudante de engenharia de software, apaixonada por tecnologia!
-Tenho paixão pelo front-end mas gosto dos desafios do back-end também!
+Sou estudante de engenharia de software pela 42|Rio e analista de sistema pela Estácio de Sá, apaixonada por tecnologia!
+Tenho paixão por resolver problemas!
 
 💬 Sobre mim: designer, fotógrafa e cinéfila de carteirinha!<br>
 👩‍🎓 Fullstack Developer - RecodePro 2021.<br>
 🎒 Estudante de engenharia de software pela 42|Rio.<br>
+🎒 Estudante de análise de sistemas pela Estácio de Sá.<br>
 🎯 Objetivo: Atualmente procurando uma oportunidade para continuar evoluindo.<br>
 📰 Aprendendo por fora: Javascript, ReactJS, UX e UI.<br>
 💜 Tenho conhecimento em HTML5, CSS, JavaScript, Figma, Bootstrap, C#, .Net, Java, React, SQLserver, MongoDB.<br>
