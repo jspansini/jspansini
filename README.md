@@ -60,8 +60,10 @@ Tenho paixão por resolver problemas!
   <p> Noções de back-end desenvolvendo em: </p> 
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   
-  <h3> Um pouco de história.... </h3>
-   <p> 💬 Pitch de 2 minutos contando <a href="https://youtu.be/bGL083GWLhg"> como eu vim parar aqui.... </a>
+  <h3> Curiosidades.... </h3>
+  
+  <p> 💬 Pitch de 2 minutos contando <a href="https://youtu.be/bGL083GWLhg"> como eu vim parar aqui.... </a>
+  
   
      📧 jspansini@gmail.com
      
