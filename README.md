@@ -1,8 +1,8 @@
 <h1 align="left"> Olá, tudo bem? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 <h2> Meu nome é Jessica, mas todos me chamam de Jess!</h2>
 
-Sou estudante de engenharia de software pela 42|Rio e analista de sistema pela Estácio de Sá, apaixonada por tecnologia!
-Tenho paixão por resolver problemas!
+Sou estudante de engenharia de software pela 42|Rio && analista de sistema pela Estácio de Sá!<br>
+Apaixonada por tecnologia!
 
 💬 Sobre mim: designer, fotógrafa e cinéfila de carteirinha!<br>
 👩‍🎓 Fullstack Developer - RecodePro 2021.<br>
