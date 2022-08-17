@@ -8,8 +8,8 @@ Apaixonada por tecnologia!
 👩‍🎓 Fullstack Developer - RecodePro 2021.<br>
 🎒 Estudante de engenharia de software pela 42|Rio.<br>
 🎒 Estudante de análise de sistemas pela Estácio de Sá.<br>
-🎯 Objetivo: Atualmente procurando uma oportunidade para continuar evoluindo.<br>
-📰 Projeto atual: Desenvolvendo um "site currículo" para treinar.<br>
+🎯 Objetivo: Atualmente trabalho como Desenvolvedora WEB na RSM BRASIL.<br>
+📰 Projeto atual: Desenvolvendo o projeto BORNTOBEROOT da 42|Rio.<br>
 💜 Tenho conhecimento em HTML5, CSS3, JavaScript, Figma, Bootstrap, C#, .Net, Java, React, SQLserver, MongoDB.<br>
 💜 Trabalho há bastante tempo com: Photoshop, Illustrator, CorelDraw, Indesign, Premiere e FacebookADS.<br>
 
