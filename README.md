@@ -1,17 +1,17 @@
-<h1 align="left"> Olá, tudo bem? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
-<h2> Meu nome é Jessica, mas todos me chamam de Jess!</h2>
+<h1 align="left"> Hi, how you doing? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h2> My name is Jessica but everyone calls me Jess!</h2>
 
-Sou estudante de engenharia de software pela 42|Rio && analista de sistema pela Estácio de Sá!<br>
-Apaixonada por tecnologia!
+I'm a software engineer student at 42|Rio && system analyst at Estácio Br <br>
 
-💬 Sobre mim: designer, fotógrafa e cinéfila de carteirinha!<br>
+💬 About me: graphic designer, photographer and movie lover!<br>
 👩‍🎓 Fullstack Developer - RecodePro 2021.<br>
-🎒 Estudante de engenharia de software pela 42|Rio.<br>
-🎒 Estudante de análise de sistemas pela Estácio de Sá.<br>
-🎯 Objetivo: Atualmente trabalho como Desenvolvedora WEB na RSM BRASIL.<br>
-📰 Projeto atual: Desenvolvendo o projeto BORNTOBEROOT da 42|Rio.<br>
-💜 Tenho conhecimento em HTML5, CSS3, JavaScript, Figma, Bootstrap, C#, .Net, Java, React, SQLserver, MongoDB.<br>
-💜 Trabalho há bastante tempo com: Photoshop, Illustrator, CorelDraw, Indesign, Premiere e FacebookADS.<br>
+📰 Current Job: Web Developer FullStack at RSM / Pollvo working with maintenance creating new features in .NET.<br>
+🎒 Software engineer student at 42|Rio.<br>
+🎒 System analyst at Estácio.<br>
+🎯 Objective: To develop technological solutions that improve the quality of human life, in general. I have some ideas for the educational environment...<br>
+📰 Current project: Developing the 42|Rio BORNTOBEROOT project and increasing my abstraction capacity in OOP paradigm.<br>
+💜 I have knowledge in HTML5, CSS3, JavaScript, Figma, Bootstrap, C#, .Net, Angular, React, OracleSQL.<br>
+💜 I've been working with: Photoshop, Illustrator, CorelDraw, Indesign, Premiere and FacebookADS for a long time.<br>
 
 <div align="center">
   <a href="https://github.com/jspansini">
@@ -53,17 +53,18 @@ Apaixonada por tecnologia!
 </div>
   
 
-  ## 🛠 &nbsp;Techs favoritas do momento:
+  ## 🛠 &nbsp;My favorite techs:
 
-  <p> Desenvolvendo Lógica de POO com: </p>
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-  <p> Noções de back-end desenvolvendo em: </p> 
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+<ul>
+  <li> C# OPP </li>
+  <li> .NET CORE</li>
+  <li> Cloud(Azure) </li></ul>
   
-  <h3> Curiosidades.... </h3>
+ 
+  <h3> Curiosities.... </h3>
   
-  <p> 💬 Pitch de 2 minutos contando <a href="https://youtu.be/bGL083GWLhg"> como eu vim parar aqui.... </a>
+  <p> 💬 a two-minute pitch telling how I ended up in technology: <a href="https://youtu.be/bGL083GWLhg"> Check it out :) </a>
   
   
      📧 jspansini@gmail.com
-     
+    🛠 <a href="https://www.linkedin.com/in/jessicapansini/?locale=en_US"> Linkedin </a>
