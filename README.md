@@ -1,7 +1,7 @@
 <h1 align="left"> Hi, how you doing? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 <h2> My name is Jessica but everyone calls me Jess!</h2>
 
-I'm a software engineer student at 42|Rio && system analyst at Estácio Br <br>
+I'm a Software Engineer Student at 42|Rio && System Analyst at Estácio Brazil <br>
 
 💬 About me: graphic designer, photographer and movie lover!<br>
 👩‍🎓 Fullstack Developer - RecodePro 2021.<br>
