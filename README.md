@@ -66,5 +66,5 @@ I'm a Software Engineer Student at 42|Rio && System Analyst at Estácio Brazil <
   <p> 💬 a two-minute pitch telling how I ended up in technology: <a href="https://youtu.be/bGL083GWLhg"> Check it out :) </a>
   
   
-     📧 jspansini@gmail.com
-    🛠 <a href="https://www.linkedin.com/in/jessicapansini/?locale=en_US"> Linkedin </a>
+     📧 jspansini@gmail.com <br>
+    🛠 My <a href="https://www.linkedin.com/in/jessicapansini/?locale=en_US"> Linkedin :) </a>
