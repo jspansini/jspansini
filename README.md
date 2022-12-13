@@ -67,4 +67,3 @@ I'm a Software Engineer Student at 42|Rio && System Analyst at Estácio Brazil <
   
   
      📧 jspansini@gmail.com <br>
-    🛠 My <a href="https://www.linkedin.com/in/jessicapansini/?locale=en_US"> Linkedin :) </a>
