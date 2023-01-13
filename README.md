@@ -13,11 +13,6 @@ I'm a Software Engineer Student at 42|Rio && System Analyst at Estácio Brazil <
 💜 I have knowledge in HTML5, CSS3, JavaScript, Figma, Bootstrap, C#, .Net, Angular, React, OracleSQL.<br>
 💜 I've been working with: Photoshop, Illustrator, CorelDraw, Indesign, Premiere and FacebookADS for a long time.<br>
 
-<div align="center">
-  <a href="https://github.com/jspansini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jspansini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jspansini&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
   <div style="display: inline_block align: center "><br>
    
