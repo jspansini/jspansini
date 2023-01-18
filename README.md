@@ -5,11 +5,11 @@ I'm a Software Engineer Student at 42|Rio && System Analyst at Estácio Brazil <
 
 💬 About me: graphic designer, photographer and movie lover!<br>
 👩‍🎓 Fullstack Developer - RecodePro 2021.<br>
-📰 Current Job: Web Developer FullStack at RSM / Pollvo working with maintenance creating new features in .NET.<br>
+📰 Current Job: web development intern at Sinqia <br>
 🎒 Software engineer student at 42|Rio.<br>
 🎒 System analyst at Estácio.<br>
 🎯 Objective: To develop technological solutions that improve the quality of human life, in general. I have some ideas for the educational environment...<br>
-📰 Current project: Developing the 42|Rio BORNTOBEROOT project and increasing my abstraction capacity in OOP paradigm.<br>
+📰 Current project: Developing the 42|Rio PRINTF project and designing domains for a school management system!<br>
 💜 I have knowledge in HTML5, CSS3, JavaScript, Figma, Bootstrap, C#, .Net, Angular, React, OracleSQL.<br>
 💜 I've been working with: Photoshop, Illustrator, CorelDraw, Indesign, Premiere and FacebookADS for a long time.<br>
 
