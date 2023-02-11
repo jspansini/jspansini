@@ -4,11 +4,11 @@
 I'm a Software Engineer Student at 42|Rio && System Analyst at Estácio Brazil <br>
 
 * 💬  About me: graphic designer, photographer and code lover!<br>
-* 🌍  I'm based in Rio de Janeiro, Brazil
-* 🚀  I'm currently working on [Sinqia](https://sinqia.com.br/) as Web Backend Developer
-* 🧠  I'm learning Advanced .NetCore Web Apps, Sql Queries and Angular SPA Development
-* 🎒  I am also a student at [42 | Rio](https://42.rio/), a Software Engineering internacional school
-* ⚡  I love to travel, I've been to 35 countries. 
+* 🌍  I'm based in Rio de Janeiro, Brazil.
+* 🚀  I'm currently working on [Sinqia](https://sinqia.com.br/) as Web Backend Developer.
+* 🧠  I'm learning Advanced .NetCore Web Apps, Sql Queries and Angular SPA Development.
+* 🎒  I am also a student at [42 | Rio](https://42.rio/), a Software Engineering internacional school.
+* ⚡  I love to travel, I've been to 35 countries already!
 * ✉️  You can contact me at [jspansini@gmail.com](mailto:jspansini@gmail.com)
 
 
