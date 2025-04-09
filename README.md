@@ -6,7 +6,7 @@ I'm a Software Engineer Student at 42|Rio && System Analyst at Estácio Brazil <
 * 💬  About me: graphic designer, photographer and code lover!<br>
 * 🌍  I'm based in São Paulo, Brazil.
 * 🚀  I'm currently working on [Itaú](https://www.itau.com.br/) as Software engineer.
-* 🧠  I'm learning Advanced CI|CD with githubActions and front end web development with Angular.
+* 🧠  I'm learning Advanced CI|CD | githubActions | aws cloud.
 * 🎒  I am also a student at [42 | Rio](https://42.rio/), a Software Engineering internacional school.
 * ⚡  I love to travel, I've been to 35 countries already!
 * ✉️  You can contact me at [jspansini@gmail.com](mailto:jspansini@gmail.com)
