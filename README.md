@@ -1,13 +1,14 @@
 <h1 align="left"> Hi, how you doing? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 <h2> My name is Jessica but everyone calls me Jess!</h2>
 
-I'm a Software Engineer Student at 42|Rio && System Analyst at Estácio Brazil <br>
+I'm a Software Engineer with a Bachelor's degree from Estácio, currently pursuing an MBA in Software Engineering at USP. <br>
+I also had the opportunity to be a cadet at 42|Rio, where I deepened my skills in low-level programming and peer-to-peer learning. <br>
 
 * 💬  About me: graphic designer, photographer and code lover!<br>
 * 🌍  I'm based in São Paulo, Brazil.
 * 🚀  I'm currently working on [Itaú](https://www.itau.com.br/) as Software engineer.
 * 🧠  I'm learning Advanced CI|CD | githubActions | aws cloud.
-* 🎒  I am also a student at [42 | Rio](https://42.rio/), a Software Engineering internacional school.
+* 🎒  I'm currently pursuing an MBA in Software Engineering at USP.
 * ⚡  I love to travel, I've been to 35 countries already!
 * ✉️  You can contact me at [jspansini@gmail.com](mailto:jspansini@gmail.com)
 
