@@ -9,7 +9,7 @@ I also had the opportunity to be a cadet at 42|Rio, where I deepened my skills i
 * 🚀  I'm currently working on [Itaú](https://www.itau.com.br/) as Software engineer.
 * 🧠  I'm learning Advanced CI|CD | githubActions | aws cloud.
 * 🎒  I'm currently pursuing an MBA in Software Engineering at USP.
-* ⚡  I love to travel, I've been to 35 countries already!
+* ⚡  I love to travel - I've been to 35 countries already!
 * ✉️  You can contact me at [jspansini@gmail.com](mailto:jspansini@gmail.com)
 
 
